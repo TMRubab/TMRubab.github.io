@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to My Page
+title: Tamzid Morshed Rubab
 ---
 
 # Welcome to My Personal Website
@@ -20,5 +20,6 @@ Hi, my name is Tamzid Morshed Rubab. I am passionate about theoretical computer 
 - [Home](index.md)
 - [Research](research.md)
 
-## Footer
+---
+
 <p align="center">© 2024 Tamzid Morshed Rubab</p>
