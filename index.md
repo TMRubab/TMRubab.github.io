@@ -5,10 +5,8 @@ title: Tamzid Morshed Rubab
 
 # Welcome to My Personal Website
 
-![Profile Photo](assets/profile.jpg){: .center-image }
-
 <p align="center">
-  <img src="assets/icon.jpg" alt="My Icon"/>
+  <img src="assets/profile.jpg" alt="Profile Photo" width="160" height="200" style="border-radius: 50%;"/>
 </p>
 
 ## About Me
