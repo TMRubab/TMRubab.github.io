@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Publications
 ---
 
 I list my current publications, planned ones for future, and current version of the drafts here.
