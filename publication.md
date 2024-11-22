@@ -8,6 +8,6 @@ I list my current publications, planned ones for future, and current version of 
 ## Publications
 
 **Parameterized Complexity of the Blake Canonical Form**  
-**Authors:** Tamzid Morshed Rubab and Amir Kafshdar Goharshady
+with Amir Kafshdar Goharshady
 - **Status:** Currently preparing draft for publication
 - **Background:** Results from my final year thesis
