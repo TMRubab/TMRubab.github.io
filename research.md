@@ -8,11 +8,11 @@ title: Research
 ## Parameterized Algorithms
 
 ### Prime Implicants Computation
-In my **final year thesis** (Summer 2022–Spring 2023), supervised by [**Prof. Amir Goharshady**](https://amir.goharshady.com), I explored **parameterized algorithms** for computing **prime implicants** of Boolean expressions. I worked on algorithms that aim to optimize the process of simplifying Boolean functions, which have applications in areas like bioinformatics, databases, and fault tree analysis.
+In my **final year thesis** (Summer 2022–Spring 2023), supervised by [**Prof. Amir Goharshady**](https://amir.goharshady.com), I explored **parameterized algorithms** for computing **prime implicants** of Boolean expressions, which has applications in bioinformatics, databases, and fault tree analysis.
 
-- **Key Contributions**:  
+- **Key Contributions**:
   - designed 3 novel paramterized algorithms for enumerating prime implicants of C.N.F. boolean expressions
-  - proved 3 novel hardness results for various parameterizations of the same problem
+  - proved several novel hardness results for various parameterizations of the same problem
 
 ---
 
