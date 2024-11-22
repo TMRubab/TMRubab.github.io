@@ -18,6 +18,4 @@ Hi, my name is Tamzid Morshed Rubab. I am passionate about theoretical computer 
 
 I obtained BSc. in Data Science and Technology at the Hong Kong University of Science and Technology (2019-23).
 
----
-
-Checkout my [Research](research.md) projects or planned [Publication](publication.md) lists.
+Checkout my [Research](research.md) projects or planned [Publication](publication.md) list.
