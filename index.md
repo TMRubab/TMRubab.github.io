@@ -14,7 +14,7 @@ title: About
 tmrubab@connect.ust.hk
 
 ## About Me
-Hi, my name is Tamzid Morshed Rubab. I am broadly passionate about theoretical computer science. But if I have to name a few topics of interest, they would be graph theory, combinatorial optimization, parameterized algorithms, Boolean functions, randomness in computation, logic, and type theory. I am a PhD candidate for the Fall 2025 term. I am happy to work on any of the above areas and open to exploring new topics within theoretical computer science and even mathematics.
+Hi, my name is Tamzid Morshed Rubab. My research interests lie in theoretical computer science. I am a PhD candidate for the Fall 2025 term.
 
 I obtained a BSc in Data Science and Technology at the Hong Kong University of Science and Technology (2019-23).
 
