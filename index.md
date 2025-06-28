@@ -14,7 +14,7 @@ title: About
 tmrubab@connect.ust.hk
 
 ## About Me
-Hi, my name is Tamzid Morshed Rubab. My research interests lie in theoretical computer science. I am a PhD candidate for the Fall 2025 term.
+Hi, my name is Tamzid Morshed Rubab. My research interests lie in theoretical computer science. I am an incoming doctoral researcher at the Max Planck Institute for Software Systems (MPI-SWS), starting in September 2025. I will be working on characterization and analysis of metastability in software systems.
 
 I obtained a BSc in Data Science and Technology at the Hong Kong University of Science and Technology (2019-23).
 
