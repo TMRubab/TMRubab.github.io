@@ -6,7 +6,7 @@ title: About
 # Welcome to My Personal Website
 
 <p align="center">
-  <img src="assets/me.jpg" alt="Profile Photo" width="160" height="200" style="border-radius: 50%;"/>
+  <img src="assets/Me.jpg" alt="Profile Photo" width="160" height="200" style="border-radius: 50%;"/>
 </p>
 
 ### Contact
